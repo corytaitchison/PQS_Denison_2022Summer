@@ -1,0 +1,2 @@
+
+E = sqrt(feedback).*E;
